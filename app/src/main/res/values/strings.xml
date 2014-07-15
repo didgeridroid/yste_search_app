@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Etsy</string>
+    <string name="search_hint">Search handmade goods at Etsy</string>
+
+    <!-- Error messages -->
+    <string name="no_connectivity_msg">Cannot connect to Etsy, please check your wifi/network connection and retry.</string>
+    <string name="generic_server_error">Error retrieving listings, this could be temporary, please retry after few minutes.</string>
+    <string name="bad_keywords">Unable to search using your keywords, please try others</string>
+    <string name="no_results">No listings for your keywords, please try others</string>
+</resources>
